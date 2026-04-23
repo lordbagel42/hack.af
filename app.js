@@ -1208,6 +1208,7 @@ const isStaffMember = async (userId) => {
         'U05F4B48GBF', // @cskartikey
         'U080A3QP42C', // Rowan
         'U06U80G86H1', // Reem
+        'U05EZRFKRV4', // Nathan
     ]);
     return allowedUsers.has(userId)
 };
