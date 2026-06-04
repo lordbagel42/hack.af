@@ -1210,6 +1210,7 @@ const isStaffMember = async (userId) => {
         'U06U80G86H1', // Reem
         'U05EZRFKRV4', // Nathan
         "U082DPCGPST", // ascerton pixi the third (@ascpixi)
+        "U093AJCBP0C", // Alfie
     ]);
     return allowedUsers.has(userId)
 };
